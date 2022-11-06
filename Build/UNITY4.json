@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "car",
+"productVersion": "0.1",
+"dataUrl": "UNITY4.data.unityweb",
+"wasmCodeUrl": "UNITY4.wasm.code.unityweb",
+"wasmFrameworkUrl": "UNITY4.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": true,
+"multithreading": false,
+"unityVersion": "2019.4.22f1c1"
+}
